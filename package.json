@@ -1,0 +1,20 @@
+{
+  "name": "full",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "express": "^4.17.1",
+    "fast-api-speedtest": "^0.0.6",
+    "fast-speedtest-api": "^0.3.2",
+    "nodemon": "^2.0.20"
+  }
+}
